@@ -1,8 +1,3 @@
 ## Hi there 👋
-
-<!--
-**jatinmishr/jatinmishr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+This profile belongs to Jatin Mishra
 - 🌱 I’m currently learning coding and exploring the developer community
